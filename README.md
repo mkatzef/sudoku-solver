@@ -2,6 +2,18 @@
 
 A tool to help with (or outright solve) Sudoku puzzles. Written in Python, with a Tkinter GUI.
 
+<table>
+<td>
+<img src="images/solver_empty.png" width="233" title="Sudoku solver - empty">
+</td>
+<td>
+<img src="images/solver_exported.png" width="233" title="Sudoku solver - populated, board exported">
+</td>
+<td>
+<img src="images/solver_solved.png" width="233" title="Sudoku solver - solved">
+</td>
+</table>
+
 ## Getting Started
 
 This project consists of a single module.
